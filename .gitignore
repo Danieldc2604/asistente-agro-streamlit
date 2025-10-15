@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+.venv/
+env/
+
+# Ignorar el archivo con la clave de API secreta
+.env
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
